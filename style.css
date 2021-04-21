@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(182, 14, 233);
+}
+
+#info{
+    background-color: rgb(247, 247, 247);
+    border: 10px solid black;
+    border-radius: 20px;
+    text-align: center;
+    margin: 3px;
+}
+
+
+#info:active{
+    cursor: grabbing;
+}
+
+h1{
+    text-align: center;   
+ }
